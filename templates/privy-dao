@@ -1,0 +1,28 @@
+---
+title: Anonymous ZK Voting
+app_type: privy-dao
+wallet: 0xc124AF3f7A435EBBaB6edcf763f9e5DC21731Dcd
+---
+
+Create a futuristic, premium, and highly sophisticated Anonymous DAO Voting & Intelligent Treasury Management platform called "VEIL DAO".
+
+## Core Concept
+Build a next-generation DAO platform that combines full anonymity in voting using Zero-Knowledge proofs with intelligent on-chain treasury management.
+
+## Key Features
+
+- Anonymous voting with ZK proofs (voter identity and choice hidden)
+- Real-time private vote tally
+- Smart treasury dashboard with multi-chain asset overview
+- AI Treasury Assistant for insights and suggestions
+- Proposal creation with treasury impact preview
+- Beautiful governance analytics
+- Dark cyberpunk elegant design with purple/cyan accents
+
+## Tech Stack & Design
+- React 19 + TypeScript + Vite
+- Tailwind + shadcn/ui + glassmorphism
+- Framer Motion for premium animations
+- Dark futuristic UI (institutional + cyberpunk feel)
+
+Make this feel like the most advanced anonymous DAO tool in crypto.
